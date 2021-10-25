@@ -4,4 +4,5 @@ apt install -y \
 	sysstat \
 	dstat \
 	procps \
-	strace 
+	strace \
+	less
