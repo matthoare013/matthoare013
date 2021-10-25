@@ -1,6 +1,5 @@
 apt update
 
-apt install \
+apt install -y \
 	sysstat \
-	dstat \
-	-y
+	dstat
