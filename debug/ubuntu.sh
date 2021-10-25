@@ -2,4 +2,5 @@ apt update -y
 
 apt install -y \
 	sysstat \
-	dstat
+	dstat \
+	procps-ng
