@@ -5,4 +5,5 @@ apt install -y \
 	dstat \
 	procps \
 	strace \
-	less
+	less \
+	net-tools
